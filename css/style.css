@@ -1,0 +1,67 @@
+body{
+  background-color: #54BAB9
+  font-family: Montserrat-black;
+  margin: 0;
+}
+
+span{
+  font-size: 1.5rem;
+  padding: 5% auto
+}
+
+#topDiv, #bottomDiv{
+  background-color: #54BAB9;
+  color: white;
+  text-align: center;
+}
+
+#bottomDiv{
+  padding: 3.5%;
+}
+
+#result {
+  background-color: #54BAB9;
+  color: white;
+  font-size: 3rem;
+  line-height: 3rem;
+  padding: 1.699% 0;
+  text-align: center;
+
+}
+
+.dice{
+  background-color: yellow;
+  border-radius: 15px 15px;
+  font-size: 8rem;
+  width: 90%;
+  height:90%;
+  /* padding: 15%; */
+}
+
+
+button.roll {
+  border-color: yellow;
+  font-size: 6rem;
+  margin: 6% auto 1%;
+  padding: 0 10px;
+  color: white;
+}
+
+button.roll:hover{
+  color: white;
+}
+
+.row{
+  margin: 0;
+ padding: 2%;
+}
+
+.round{
+  text-align: center;
+  font-size: 3rem;
+  margin-left: 5%;
+}
+
+.copyrights{
+  margin: 1.1% auto;
+}
